@@ -17,6 +17,6 @@ public interface RetroInterface {
     @GET("/mode/manual")
     Call<DataManual> gomanual();
 
-    @GET("/mode/otomatis")
+    @GET("/mode/otomatisaa")
     Call<DataOto> gootom();
 }
